@@ -5,5 +5,6 @@ export const LINKS = {
   twitter:"https://twitter.com/AqibAmirKhan",
   medium:"https://medium.com/@aqibamirlearns/",
   substack:"https://myjounery.substack.com/",
-  calendly:"https://calendly.com/aqib_amir_/let-s-talk-work-or-life-in-general"
+  calendly:"https://calendly.com/aqib_amir_/let-s-talk-work-or-life-in-general",
+  resume:"/Aqib's Resume.pdf"
 };
